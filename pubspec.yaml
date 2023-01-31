@@ -1,7 +1,7 @@
 name: sugitkit
 description: Toolkit for sugit.
 version: 0.0.1
-homepage:
+homepage: https://github.com/sugitlab/sugitkit
 
 environment:
   sdk: ">=2.19.0 <3.0.0"
